@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+/usr/bin/confd -onetime -backend rancher -prefix /2015-12-19
